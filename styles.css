@@ -195,6 +195,7 @@ margin-bottom: 10px;
 
 .form-group { 
     margin: 10px;
+    margi-left: 20px;
 }
 
 .row > .form-group {
